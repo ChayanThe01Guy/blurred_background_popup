@@ -1,1 +1,1 @@
-# js_project___blurred_background_popup
+# Blurred_Background_Popup
